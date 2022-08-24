@@ -1,4 +1,16 @@
-.Navbar {
+#Navigator {
     font-family: 'Open Sans';
-    
+    font-size: medium;
+}
+#Register {
+    font-family: 'Open Sans';
+    font-size: medium;
+    font-weight: bold;
+}
+#Brand {
+    padding-left: 10px;
+}
+
+#inside {
+    font-weight: bold;
 }
